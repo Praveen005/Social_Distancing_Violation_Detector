@@ -37,27 +37,4 @@ To check if or not people are following social distancing norms using OpenCV and
 
 ## Installation of the Project :package:
 
-1. Clone the repo
-
-```bash
-   $ git clone https://github.com/Noel6161131110/Social-Distancing-Detector.git
-   $ cd Social-Distancing-Detector
-```
-
-2. Install dependencies
-
-```bash
-   $ pip install -r requirements.txt
-```
-
-3. Single Feed: Run the main social distancing detector file. (set display to 1 if you want to see output video as processing occurs)
-```bash
-   $ python social_distancing_detector.py --input pedestrians.mp4 --output output.avi --display 1   
-```
-
-4. Two Feeds: Run the main social distancing detector file. (set display to 1 if you want to see output video as processing occurs)
-```bash   
-   $ python social_distancing_detector.py --input1 pedestrians.mp4 --input2 pedestrians.mp4 --output output.avi --display 1
-```
-[Caution: The output video stream will not be accurate if you display as processing occurs]
-
+Check Inside
