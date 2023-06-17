@@ -9,6 +9,7 @@
 ```bash
    $ git clone https://github.com/Praveen005/Social_Distancing_Violation_Detector.git
    $ cd Social_Distancing_Violation_Detector
+   $ cd Two_Feeds
 ```
 
 2. Install dependencies
