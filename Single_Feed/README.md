@@ -7,7 +7,7 @@
 1. Clone the repo
 
 ```bash
-   $ git clone https://github.com/Noel6161131110/Social-Distancing-Detector.git
+   $ git clone https://github.com/Praveen005/Social_Distancing_Violation_Detector.git
    $ cd Social-Distancing-Detector
 ```
 
