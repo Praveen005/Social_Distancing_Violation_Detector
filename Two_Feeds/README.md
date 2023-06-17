@@ -17,8 +17,8 @@
    $ pip install -r requirements.txt
 ```
 
-3. Download the yolov3.weights from the following link and include it inside the yolo-coco folder
-   [yolov3.weights](https://github.com/patrick013/Object-Detection---Yolov3/blame/master/model/yolov3.weights)
+3. Download the [yolov3.weights](https://github.com/patrick013/Object-Detection---Yolov3/blame/master/model/yolov3.weights) and include it inside the yolo-coco folder
+   
 
 
 4. Two Feeds: Run the main social distancing detector file. (set display to 1 if you want to see output video as processing occurs)
